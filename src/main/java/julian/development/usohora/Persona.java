@@ -30,5 +30,5 @@ public class Persona {
         reloj.setHora(nuevaHora);
         reloj.setDia(nuevoDia);
     }
-
+//Ahora si el persona era el mio
 }
